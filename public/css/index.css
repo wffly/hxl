@@ -1,0 +1,175 @@
+body{
+    padding:0px;
+    margin:0px;
+    background-color: #e9e9e9;
+    position: relative;
+}
+#topMenu{
+    width: 2000px;
+    height: 100px;
+    background-image: url('../resource/head.jpg');    
+    background-repeat: no-repeat;
+    position: fixed;
+    top:0px;
+}
+#menuRightTitle{
+
+}
+#border{
+    width: 309px;
+    height: 309px;
+    background-image: url('../resource/border.png');    
+    background-position-y:-120px;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+#fly{
+    width: 130px;
+    height: 75px;
+    vertical-align: top;
+    background-size: 130px 75px;
+    background-image: url('../resource/fly.png');    
+    background-repeat: no-repeat;
+    display: inline-block; 
+    position: absolute;;
+    left: 200px;
+    top:25px;
+}
+
+#divboss{
+    width:950px;
+    height:509px; 
+    vertical-align: top;
+}
+#div1{
+    background-image:url("../resource/1.jpg");
+    background-size:512px 475px;
+    background-repeat: no-repeat;
+    width:520px;
+    height: 475px;
+    display:inline-block;
+} 
+#studentShowFont{
+    vertical-align: top;
+    width:400px;
+    height: 475px;
+    text-align:center;
+    line-height:128px;
+    font-size:30px;
+    font-family: "微软雅黑";
+    color:#776561;
+    display:inline-block;
+}
+#studentShowFontH2{
+    width:400px;
+    height:200px;
+    text-align:center;
+    line-height: 50px;
+    font-family: "微软雅黑";
+    color:#aaaaaa;
+}
+#div2{
+    width:512px;
+    height: 32px;
+    display:inline-block;
+}
+
+#locationTitle{
+    vertical-align: top;
+    height: 128px;
+    font-size:18px;
+    color:#776561;
+    background-color:white;
+    text-align: center;
+    line-height:120px;
+    font-family: "微软雅黑";
+}
+
+#qbear{
+    width:64px;
+    height: 64px;
+    background-image: url('../resource/question.jpg');
+    background-repeat: no-repeat;
+    background-size:64px 64px;
+    margin-left:20%;
+    margin-top:20px;
+    float: left;
+}
+
+#aRabbit{
+    width:64px;
+    height: 64px;
+    background-image: url('../resource/question.jpg');
+    background-repeat: no-repeat;
+    background-size:64px 64px;
+    margin-top:20px;
+    padding-right:20%;
+    float: right;
+
+}
+
+#locationNJ{
+    height: 512px;
+    background-color:#776561;
+    background-repeat: no-repeat;
+    background-image: url('../resource/nj.png');
+    background-position: right;
+    line-height: 512px;
+    padding-left: 20px;
+    color:#fffdf8;
+    font-family: "微软雅黑";
+    font-size:20px;
+}
+.brr{
+    height: 30px;
+    background-color: white;
+    
+}
+#locationYZ{
+    height: 512px;
+    background-color: #776561;
+    background-repeat: no-repeat;
+    background-image: url('../resource/yz.png');
+    background-position: right;
+    line-height: 512px;
+    padding-left: 20px;
+    color:#fffdf8;
+    font-family: "微软雅黑";
+    font-size:20px;
+}
+
+#callus{
+    vertical-align: top;
+    height: 128px;
+    font-size:18px;
+    color:#353434;
+    background-color:white;
+    text-align: center;
+    line-height:120px;
+    font-family: "微软雅黑";
+}
+
+#detailsofhxl{
+    vertical-align: top;
+    height: 256px;
+    background-color:#685954;
+}
+#teacher1{
+    vertical-align: top;
+    color:#fffdf8;
+    width:50%;
+    height: 256px;
+    line-height:85px;
+    text-align: center;
+    float: left;
+}
+#teacher2{
+    vertical-align: top;
+    width:50%;
+    color:#fffdf8;
+    height: 256px;
+    line-height:64px;
+    text-align: center;
+    float: right;
+}
